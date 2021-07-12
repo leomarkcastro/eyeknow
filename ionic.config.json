@@ -1,0 +1,7 @@
+{
+  "name": "eyeknow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
