@@ -1,0 +1,8 @@
+@import url("../../theme/variables.css");
+
+.content{
+    padding: 1.5%;
+    -webkit-transform: translateZ(0); 
+    -moz-transform: translateZ(0); transform: translateZ(0);
+    transform: translateZ(0); transform: translateZ(0);
+}

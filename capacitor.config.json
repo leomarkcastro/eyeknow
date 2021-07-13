@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "eyeknow",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "com.bscpe3c.eyeknow",
+  "appName": "eyeknow",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }

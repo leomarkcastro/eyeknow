@@ -1,0 +1,25 @@
+@import url("../../theme/variables.css");
+
+.contents{
+    font-size: 1.5rem;
+    padding: 5%;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+.card{
+    width: 100%;
+    padding: 5%;
+    text-align: center;
+}
+
+.popover_style{
+    text-align: center;
+    padding: 5%;
+    font-size: 1.25rem;
+}
+
+.cardmain{
+    margin-top: 1rem;
+}

@@ -1,0 +1,9 @@
+@import url("../../theme/variables.css");
+
+.contents{
+    font-size: 1.5rem;
+    padding: 5%;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
